@@ -1,18 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-9481
-Fork on GitHub
-2239
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
 preview
 <h1 align="center">Nameste :pray, I'm Pranav</h1>
 <h3 align="center">A passionate Flutter developer from Nepal</h3>
