@@ -1,4 +1,3 @@
-preview
 <h1 align="center">Nameste :pray, I'm Pranav</h1>
 <h3 align="center">A passionate Flutter developer from Nepal</h3>
 
