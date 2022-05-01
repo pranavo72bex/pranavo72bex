@@ -1,4 +1,4 @@
-<h1 align="center">Nameste :pray, I'm Pranav</h1>
+<h1 align="center">Nameste, I'm Pranav</h1>
 <h3 align="center">A passionate Flutter developer from Nepal</h3>
 
 - 🔭 I’m currently working on **Project**
