@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pranavj304@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Medium articles:</h3>
 <p align="left">
 <a href="https://medium.com/@pranav072bex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pranav072bex" height="30" width="40" /></a>
 </p>
