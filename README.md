@@ -1,6 +1,6 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:02569B,100:13B9FD&height=220&section=header&text=Pranav&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Flutter%20%26%20Mobile%20Engineer%20%E2%80%A2%20Kathmandu%2C%20Nepal&descAlignY=56&descSize=18" alt="Pranav — Flutter & Mobile Engineer" />
+  <img width="100%" src="./assets/header.svg" alt="Pranav — Flutter & Mobile Engineer" />
 </p>
 
 <p align="center">
