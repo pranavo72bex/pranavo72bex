@@ -1,66 +1,115 @@
-<h1 align="center">Nameste, I'm Pranav</h1>
-<h3 align="center">A passionate Flutter developer from Nepal</h3>
-
-- 🔭 I’m currently working on **Project**
-
-- 🌱 I’m currently learning **NextJs**
-
-- 👯 I’m looking to collaborate on **Open source**
-
-- 💬 Ask me about **Flutter,Python,Dart,Typescript**
-
-- 📫 How to reach me **pranavj304@gmail.com**
-
-<h3 align="left">Medium articles:</h3>
-<p align="left">
-<a href="https://medium.com/@pranav072bex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pranav072bex" height="30" width="40" /></a>
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=180&section=header&text=Namaste%2C%20I'm%20Pranav%20🙏&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" />
 </p>
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-
-<p align="left">
-  <!-- Mobile & App -->
-  <strong>📱 Mobile:</strong><br/>
-  <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/></a>
-  <a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/></a>
-  <a href="https://reactnative.dev/"><img src="https://reactnative.dev/img/header_logo.svg" width="40"/></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=13B9FD&center=true&vCenter=true&width=600&lines=Flutter+%26+Mobile+Developer+from+Nepal;Building+cross-platform+apps+with+Dart;Shipping+open-source+tools+in+Rust;Always+learning%2C+always+building" alt="Typing SVG" />
+  </a>
 </p>
 
-<p align="left">
-  <!-- Languages -->
-  <strong>💻 Languages:</strong><br/>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-  <a href="https://golang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/></a>
-  <a href="https://kotlinlang.org"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/></a>
+<p align="center">
+  <a href="mailto:pranavj304@gmail.com"><img src="https://img.shields.io/badge/Email-pranavj304%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://medium.com/@pranav072bex"><img src="https://img.shields.io/badge/Medium-@pranav072bex-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://www.wesionary.team/"><img src="https://img.shields.io/badge/Work-wesionaryTEAM-0A66C2?style=for-the-badge&logo=briefcase&logoColor=white" alt="Wesionary Team" /></a>
+  <img src="https://komarev.com/ghpvc/?username=pranavo72bex&style=for-the-badge&color=13B9FD&label=Profile+Views" alt="Profile views" />
 </p>
 
-<p align="left">
-  <!-- Web -->
-  <strong>🌐 Web:</strong><br/>
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
+---
+
+## 👨‍💻 About Me
+
+```dart
+class Pranav {
+  final String location = "Kathmandu, Nepal 🇳🇵";
+  final String work     = "@wesionaryTEAM";
+  final String role     = "Flutter / Mobile Developer";
+
+  final List<String> dailyDrivers = ["Flutter", "Dart", "TypeScript", "Python"];
+  final List<String> exploring    = ["Rust", "Next.js", "LLM tooling"];
+
+  final String openTo   = "Open-source collaboration 🤝";
+  final String funFact  = "I ship download managers for fun 📥";
+}
+```
+
+- 🔭 Currently building **[Easy Download Manager](https://github.com/pranavo72bex/Easy-Download-Manager)** — a free, open-source download manager for desktop & Android
+- 🌱 Learning **Rust** and **Next.js**
+- 👯 Looking to collaborate on **open-source** projects
+- 💬 Ask me about **Flutter, Dart, Python, TypeScript**
+- ✍️ I write about dev stuff on **[Medium](https://medium.com/@pranav072bex)**
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/pranavo72bex/Easy-Download-Manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavo72bex&repo=Easy-Download-Manager&theme=tokyonight&hide_border=true" alt="Easy-Download-Manager" />
+  </a>
+  <a href="https://github.com/pranavo72bex/tiktoken-analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavo72bex&repo=tiktoken-analysis&theme=tokyonight&hide_border=true" alt="tiktoken-analysis" />
+  </a>
 </p>
 
-<p align="left">
-  <!-- Backend & DB -->
-  <strong>🗄️ Backend & DB:</strong><br/>
-  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.sqlite.org/"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/></a>
+| Project | What it does | Stack |
+| :-- | :-- | :-- |
+| 📥 **[Easy Download Manager](https://github.com/pranavo72bex/Easy-Download-Manager)** | Free, open-source download manager for Windows, macOS, Linux & Android, with Chrome / Firefox / Edge extensions | Rust |
+| 🔢 **[tiktoken-analysis](https://github.com/pranavo72bex/tiktoken-analysis)** | Compares LLM token counts across serialization formats — JSON vs TOON vs Markdown | Python |
+
+---
+
+## 🛠️ Tech Stack
+
+**📱 Mobile**
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,androidstudio&theme=dark" alt="Mobile" />
 </p>
 
-<p align="left">
-  <!-- Tools -->
-  <strong>⚙️ Tools:</strong><br/>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></a>
-  <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>
-  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/></a>
-  <a href="https://www.arduino.cc/"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/></a>
-  <a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/></a>
+**💻 Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=dart,py,ts,js,go,rust,kotlin&theme=dark" alt="Languages" />
+</p>
+
+**🌐 Web**
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind&theme=dark" alt="Web" />
+</p>
+
+**🗄️ Backend & Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,postgres,sqlite&theme=dark" alt="Backend and databases" />
+</p>
+
+**⚙️ Tools & Others**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman,linux,bash,vscode,arduino,opencv&theme=dark" alt="Tools" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pranavo72bex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavo72bex&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pranavo72bex&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavo72bex&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Code is like humor. When you have to explain it, it’s bad.”</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:13B9FD,100:02569B&height=100&section=footer" alt="footer" />
 </p>
